@@ -3,3 +3,23 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.news-card {
+  border: solid black 2px;
+  width: 70%;
+  height: 340px;
+  padding: 16px;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.header {
+  float: left;
+}
+
+.image {
+  width: 50%;
+  float: right;
+  display: block;
+}
